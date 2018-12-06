@@ -1,0 +1,2 @@
+C:\Users\PowerUser\Downloads\HotGear\HotGear_ElementMerger\obj\x64\Debug\HotGear_ElementMerger.csprojResolveAssemblyReference.cache
+C:\Users\PowerUser\Downloads\HotGear\HotGear_ElementMerger\obj\x64\Debug\HotGear_ElementMerger.csproj.CoreCompileInputs.cache
